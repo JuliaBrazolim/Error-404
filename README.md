@@ -1,4 +1,4 @@
-# Error 404
+# Error 404 with typewriter animation effect
 Simple page Error 404 for to use in your website with typewriter animation effect
 
 _A Pen created at CodePen.io. Original URL: https://codepen.io/juliabrazolim/pen/povwWYZ
